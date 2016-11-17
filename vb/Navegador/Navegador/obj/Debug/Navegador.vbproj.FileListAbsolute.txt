@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\bin\Debug\Navegador.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\bin\Debug\Navegador.exe
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\bin\Debug\Navegador.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\bin\Debug\Navegador.xml
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.exe
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.xml
+c:\users\i68\documents\visual studio 2015\Projects\Navegador\Navegador\obj\Debug\Navegador.pdb
