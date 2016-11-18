@@ -1,0 +1,34 @@
+C:\Users\bryan\AppData\Local\Temporary Projects\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.pdb
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.xml
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbprojResolveAssemblyReference.cache
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.exe
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.xml
+C:\Users\bryan\Google Drive\VB 2015\AuthorEdits\Code\Chapter 7\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.pdb
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.exe
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.xml
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.pdb
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.pdb
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.xml
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbprojResolveAssemblyReference.cache
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
+D:\aitor\visual studio proiektuak\Wrox liburuaren kodeak\092117 C07\Windows Forms Dialogs\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.exe
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.xml
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.pdb
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.pdb
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.xml
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbprojResolveAssemblyReference.cache
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
+D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache
