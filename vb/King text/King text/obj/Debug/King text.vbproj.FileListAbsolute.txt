@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\bin\Debug\King text.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\bin\Debug\King text.exe
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\bin\Debug\King text.pdb
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\bin\Debug\King text.xml
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King text.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King_text.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King_text.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King text.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King text.exe
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King text.xml
+c:\users\i68\documents\visual studio 2015\Projects\King text\King text\obj\Debug\King text.pdb

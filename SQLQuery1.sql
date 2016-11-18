@@ -210,6 +210,7 @@ alter table libros
 
 
 
+
   create table clientes2(
   codigo int not null,
   nombre varchar(30),
@@ -227,3 +228,4 @@ alter table libros
    insert into clientes2 (codigo,nombre,domicilio,ciudad,referenciadopor)values (2,'naroa','c/loool','azpe',2)
     insert into clientes2 (codigo,nombre,domicilio,ciudad)values (3,'LOL','c/loool','azpe')
 	 insert into clientes2 (codigo,nombre,domicilio,ciudad,referenciadopor)values (4,'XD','c/loool','azpe',2)
+	  insert into clientes2 (codigo,nombre,domicilio,ciudad,referenciadopor)values (5,'555','c/loool','azpe',5)

@@ -1,0 +1,10 @@
+﻿txtCaja.cut()
+	.copy()
+	paste()
+
+
+txtcaja.Undo() deshacer
+
+deshacer 
+txtcaja.Undo() 
+txtcaja.ClearUndo() 
