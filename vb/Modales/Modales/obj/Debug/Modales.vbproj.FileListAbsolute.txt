@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\bin\Debug\Modales.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\bin\Debug\Modales.exe
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\bin\Debug\Modales.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\bin\Debug\Modales.xml
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.exe
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.xml
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Modales\Modales\obj\Debug\Modales.Form2.resources

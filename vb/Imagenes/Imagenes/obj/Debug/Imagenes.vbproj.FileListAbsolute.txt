@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.exe
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\bin\Debug\Imagenes.xml
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.exe
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.xml
+c:\users\i68\documents\visual studio 2015\Projects\Imagenes\Imagenes\obj\Debug\Imagenes.pdb

@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.xml
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.xml
+c:\users\i68\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

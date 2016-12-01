@@ -38,6 +38,8 @@ Partial Class Form1
         Me.SeleccionarTodoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.txtFile = New System.Windows.Forms.TextBox()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
+        Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
+        Me.SaveFileDialog2 = New System.Windows.Forms.SaveFileDialog()
         Me.ToolStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -63,31 +65,31 @@ Partial Class Form1
         'btnNuevo
         '
         Me.btnNuevo.Name = "btnNuevo"
-        Me.btnNuevo.Size = New System.Drawing.Size(152, 22)
+        Me.btnNuevo.Size = New System.Drawing.Size(150, 22)
         Me.btnNuevo.Text = "&Nuevo"
         '
         'btnAbrir
         '
         Me.btnAbrir.Name = "btnAbrir"
-        Me.btnAbrir.Size = New System.Drawing.Size(152, 22)
+        Me.btnAbrir.Size = New System.Drawing.Size(150, 22)
         Me.btnAbrir.Text = "&Abrir"
         '
         'btnGuardar
         '
         Me.btnGuardar.Name = "btnGuardar"
-        Me.btnGuardar.Size = New System.Drawing.Size(152, 22)
+        Me.btnGuardar.Size = New System.Drawing.Size(150, 22)
         Me.btnGuardar.Text = "&Guardar"
         '
         'btnGuardarcomo
         '
         Me.btnGuardarcomo.Name = "btnGuardarcomo"
-        Me.btnGuardarcomo.Size = New System.Drawing.Size(152, 22)
+        Me.btnGuardarcomo.Size = New System.Drawing.Size(150, 22)
         Me.btnGuardarcomo.Text = "Guardar &como"
         '
         'btnSalir
         '
         Me.btnSalir.Name = "btnSalir"
-        Me.btnSalir.Size = New System.Drawing.Size(152, 22)
+        Me.btnSalir.Size = New System.Drawing.Size(150, 22)
         Me.btnSalir.Text = "&Salir"
         '
         'ToolStripDropDownButton2
@@ -143,6 +145,10 @@ Partial Class Form1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
         '
+        'SaveFileDialog1
+        '
+        Me.SaveFileDialog1.FileName = " "
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -174,4 +180,6 @@ Partial Class Form1
     Friend WithEvents PegarToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SeleccionarTodoToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
+    Friend WithEvents SaveFileDialog1 As SaveFileDialog
+    Friend WithEvents SaveFileDialog2 As SaveFileDialog
 End Class

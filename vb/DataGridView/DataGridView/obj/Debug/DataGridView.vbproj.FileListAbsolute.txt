@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.xml
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\bin\Debug\DataGridView.xml
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+c:\users\i68\documents\visual studio 2015\Projects\DataGridView\DataGridView\obj\Debug\DataGridView.pdb

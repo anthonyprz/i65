@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\bin\Debug\ropa.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\bin\Debug\ropa.exe
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\bin\Debug\ropa.pdb
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\bin\Debug\ropa.xml
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.exe
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.xml
+c:\users\i68\documents\visual studio 2015\Projects\ropa\ropa\obj\Debug\ropa.pdb

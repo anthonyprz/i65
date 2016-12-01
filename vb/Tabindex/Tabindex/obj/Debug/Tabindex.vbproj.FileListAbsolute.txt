@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\bin\Debug\Tabindex.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\bin\Debug\Tabindex.exe
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\bin\Debug\Tabindex.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\bin\Debug\Tabindex.xml
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.exe
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.xml
+c:\users\i68\documents\visual studio 2015\Projects\Tabindex\Tabindex\obj\Debug\Tabindex.pdb

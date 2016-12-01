@@ -1,0 +1,14 @@
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\bin\Debug\MULTIPLESFORM.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\bin\Debug\MULTIPLESFORM.exe
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\bin\Debug\MULTIPLESFORM.pdb
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\bin\Debug\MULTIPLESFORM.xml
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.dimension1.resources
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.dimensiondoble.resources
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.Principal.resources
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.tabladinamica.resources
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.exe
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.xml
+c:\users\i68\documents\visual studio 2015\Projects\MULTIPLESFORM\MULTIPLESFORM\obj\Debug\MULTIPLESFORM.pdb

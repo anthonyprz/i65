@@ -32,3 +32,14 @@ D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj
 D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
 D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
 D:\aitor\visual studio proiektuak\azaroak 22\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe.config
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.exe
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.xml
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.pdb
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.exe
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.pdb
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\bin\Debug\Windows Forms Dialogs.xml
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbprojResolveAssemblyReference.cache
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Dialogs.resources
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows_Forms_Dialogs.Resources.resources
+C:\Users\I68\Documents\Visual Studio 2015\Projects\Diálogos\Windows Forms Dialogs\obj\Debug\Windows Forms Dialogs.vbproj.GenerateResource.Cache

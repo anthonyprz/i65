@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\bin\Debug\lista.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\bin\Debug\lista.exe
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\bin\Debug\lista.pdb
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\bin\Debug\lista.xml
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.exe
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.xml
+c:\users\i68\documents\visual studio 2015\Projects\lista\lista\obj\Debug\lista.pdb

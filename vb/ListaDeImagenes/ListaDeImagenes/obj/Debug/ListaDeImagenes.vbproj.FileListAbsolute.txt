@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\bin\Debug\ListaDeImagenes.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\bin\Debug\ListaDeImagenes.exe
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\bin\Debug\ListaDeImagenes.pdb
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\bin\Debug\ListaDeImagenes.xml
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.exe
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.xml
+c:\users\i68\documents\visual studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.pdb
+C:\Users\I68\Documents\Visual Studio 2015\Projects\ListaDeImagenes\ListaDeImagenes\obj\Debug\ListaDeImagenes.vbprojResolveAssemblyReference.cache

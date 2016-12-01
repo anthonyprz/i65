@@ -177,4 +177,21 @@ Public Class Dialogs
         End If
     End Sub
 
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        Dim respuesta As DialogResult
+
+        respuesta = MessageBox.Show("¿realmente desea guardar?",
+                        "Guardar",
+                        MessageBoxButtons.YesNoCancel,
+                        MessageBoxIcon.Question,
+                        MessageBoxDefaultButton.Button1)
+        'If respuesta = DialogResult.Yes Then
+        'ElseIf respuesta = DialogResult.No Then
+        'Else
+        'End If
+
+
+        'MsgBox("hola")
+    End Sub
 End Class

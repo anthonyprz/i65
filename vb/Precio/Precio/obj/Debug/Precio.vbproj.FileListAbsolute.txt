@@ -1,0 +1,10 @@
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\bin\Debug\Precio.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\bin\Debug\Precio.exe
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\bin\Debug\Precio.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\bin\Debug\Precio.xml
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.exe
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.xml
+c:\users\i68\documents\visual studio 2015\Projects\Precio\Precio\obj\Debug\Precio.pdb

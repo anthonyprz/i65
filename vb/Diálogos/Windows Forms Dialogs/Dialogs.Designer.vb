@@ -35,6 +35,7 @@ Partial Class Dialogs
         Me.btnPrint = New System.Windows.Forms.Button()
         Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
         Me.btnBrowse = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'txtFile
@@ -117,11 +118,21 @@ Partial Class Dialogs
         Me.btnBrowse.Text = "Carpetas"
         Me.btnBrowse.UseVisualStyleBackColor = True
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(349, 189)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 7
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
         'Dialogs
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(444, 261)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnBrowse)
         Me.Controls.Add(Me.btnPrint)
         Me.Controls.Add(Me.btmColor)
@@ -150,4 +161,5 @@ Partial Class Dialogs
     Friend WithEvents btnPrint As Button
     Friend WithEvents FolderBrowserDialog1 As FolderBrowserDialog
     Friend WithEvents btnBrowse As Button
+    Friend WithEvents Button1 As Button
 End Class

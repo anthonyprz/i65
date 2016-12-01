@@ -1,0 +1,15 @@
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\PDF.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\PDF.exe
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\PDF.pdb
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\PDF.xml
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.vbproj.ResolveComReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.exe
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.xml
+c:\users\i68\documents\visual studio 2015\Projects\PDF\PDF\obj\Debug\PDF.pdb
