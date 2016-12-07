@@ -1,0 +1,2 @@
+4gl.syn en  C:\Program Files\TextPad 8\system
+ConfigState.xml en C:\Users\[NOMBRE DE USUARIO]\AppData\Roaming\Helios\TextPad\8

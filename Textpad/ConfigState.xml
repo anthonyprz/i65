@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<header> 
+	<value name="application" type="string">TextPad</value>
+	<value name="version" type="string">1</value>
+	<value name="vendor" type="string">Helios Software Solutions</value>
+</header>
+<TextPad> 
+	<Document-Classes> 
+		<class name="Default" type="0"/>
+		<class name="Binary" type="1"> 
+			<value name="Colors" type="blob">010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000099330000993300000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000</value>
+		</class>
+		<class name="CommandResults" type="3"/>
+		<class name="SearchResults" type="4"/>
+		<class name="CompareResults" type="6"/>
+		<class name="C/C++" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.C</element>
+				<element>*.CPP</element>
+				<element>*.H</element>
+				<element>*.HPP</element>
+				<element>*.CXX</element>
+				<element>*.HXX</element>
+				<element>*.INL</element>
+				<element>*.RC</element>
+				<element>*.RC2</element>
+			</value>
+			<value name="Properties" type="blob">50000000130300000100000001000000</value>
+			<value name="TabStops" type="blob">000000000000000004000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">CPP.SYN</value>
+			<value name="WordChars" type="string">_</value>
+		</class>
+		<class name="HTML" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.ASP</element>
+				<element>*.CFM</element>
+				<element>*.HTM</element>
+				<element>*.HTML</element>
+				<element>*.PHP</element>
+				<element>*.SGM</element>
+				<element>*.SGML</element>
+				<element>*.SHTM</element>
+				<element>*.SHTML</element>
+				<element>*.STM</element>
+				<element>*.STML</element>
+				<element>*.WRL</element>
+			</value>
+			<value name="Properties" type="blob">50000000310000000100000001000000</value>
+			<value name="TabStops" type="blob">000000000000000004000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">HTML.SYN</value>
+			<value name="WordChars" type="string">_</value>
+		</class>
+		<class name="Java" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.JAV</element>
+				<element>*.JAVA</element>
+			</value>
+			<value name="Properties" type="blob">50000000130300000100000001000000</value>
+			<value name="TabStops" type="blob">000000000000000004000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">JAVA.SYN</value>
+			<value name="WordChars" type="string">_</value>
+		</class>
+		<class name="JavaScript" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.JS</element>
+			</value>
+			<value name="Properties" type="blob">50000000130300000100000001000000</value>
+			<value name="TabStops" type="blob">000000000000000004000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">JAVASCRIPT.SYN</value>
+			<value name="WordChars" type="string">_</value>
+		</class>
+		<class name="Texto" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.</element>
+				<element>*.TXT</element>
+				<element>*.INI</element>
+				<element>AUTOEXEC.DOS</element>
+				<element>CONFIG.DOS</element>
+				<element>CONFIG.SYS</element>
+				<element>MSDOS.SYS</element>
+			</value>
+			<value name="Properties" type="blob">50000000010000000100000001000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">text.syn</value>
+			<value name="WordChars" type="string">_</value>
+			<value name="Colors" type="blob">0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000FFFFFF00010000000100000001000000010000000100000001000000</value>
+		</class>
+		<class name="4GL" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.4gl</element>
+				<element>*.err</element>
+			</value>
+			<value name="Properties" type="blob">46000000110000000100000001000000</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">4gl.syn</value>
+			<value name="WordChars" type="string">_</value>
+			<value name="TabStops" type="blob">0100000001000000030003000000000000000000C4E02800867D2501FFFFFFFFC4E0280054E8750500010000D8BA1F01C4E028008D00000054E8750500000000C0E57505F0E0280048EE280074F223018FF2230169D68C2501000000C0E5750548EE28007A71157501000000C0E575058D00000001000000F8E0280078A3570000000000B0E028004CE7280007F73C01</value>
+			<value name="Colors" type="blob">0100000001000000010000000000FF00FFFFFF003366FF000000FF0001000000FFFFFF007F7F7F00010000000100000001000000010000000000FF00010000003366FF000100000066669900010000003366FF0001000000FF000000F2F2F2000100000001000000FF66000001000000010000000100000000800000010000000080000001000000010000000100000001000000010000000100000001000000666699000100000000000000FF000000C0C0C000EAEAEA0001000000F2F2F200</value>
+			<value name="Font0" type="blob">0A0000000000000000000000000000009001000000000000000000004C0075006300690064006100200043006F006E0073006F006C006500000000000000000000000000000000000000000000000000000000000000000000000000</value>
+		</class>
+		<class name="PER" type="2"> 
+			<value name="Members" type="collection"> 
+				<element>*.per</element>
+			</value>
+			<value name="Properties" type="blob">46000000010000000100000001000000</value>
+			<value name="TabStops" type="blob">010000000100000003000300000000000000000084DF2800867D2501FFFFFFFF84DF2800D414760500010000D8BA1F0184DF28008D000000D41476050000000040127605B0DF280048EE280074F223018FF2230129E98C25010000004012760548EE28007A71157501000000401276058D00000001000000B8DF280078A357000000000070DF28004CE7280007F73C01</value>
+			<value name="SyntaxProps" type="blob">01000000</value>
+			<value name="SyntaxFile" type="string">4glper.syn</value>
+			<value name="WordChars" type="string">_</value>
+			<value name="Colors" type="blob">0100000001000000010000000000FF00FFFFFF003366FF000100000001000000FFFFFF007F7F7F0001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000FF660000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000FF66000001000000FFFF00000100000001000000ECECEC00</value>
+		</class>
+	</Document-Classes>
+	<Options> 
+		<value name="TipsTime" type="uint">ae0b7d00</value>
+		<value name="TipsStartUp" type="uint">1</value>
+		<value name="TipsPos" type="uint">752</value>
+		<value name="WrapSearch" type="uint">0</value>
+		<value name="OnceOnly" type="uint">f</value>
+		<value name="PreviewPages" type="uint">0</value>
+	</Options>
+	<Window-Placement> 
+		<value name="Maximized" type="uint">0</value>
+		<value name="MainFrame" type="blob">2C0000000200000003000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1A0000001A0000001B04000027020000</value>
+		<value name="ShowTabs" type="uint">1</value>
+	</Window-Placement>
+	<Preferences> 
+		<value name="ShowClock" type="uint">0</value>
+		<value name="Appearance" type="uint">1</value>
+		<value name="General" type="blob">58000000</value>
+		<value name="File" type="blob">00000000000000000000000001000000</value>
+		<value name="Editor" type="blob">20000000</value>
+		<value name="Backup" type="blob">0A0000000000000000000000</value>
+		<value name="CustomBindings" type="uint">0</value>
+		<value name="Bindings" type="string"/>
+		<value name="Locale" type="uint">c0a</value>
+		<value name="FilterIndex" type="uint">6</value>
+	</Preferences>
+	<Tools> 
+		<0> 
+			<value name="Properties" type="blob">0300000056800000EC090000</value>
+			<value name="MenuText" type="string">Compilar Java</value>
+			<value name="Command" type="string">javac.exe</value>
+			<value name="Parameters" type="string">$File</value>
+			<value name="Folder" type="string">$FileDir</value>
+			<value name="RE" type="string">^(..[^:]+):(\d+):</value>
+		</0>
+		<1> 
+			<value name="Properties" type="blob">040000005780000064000000</value>
+			<value name="MenuText" type="string">Ejecutar aplicación JAVA</value>
+			<value name="Command" type="string">java.exe</value>
+			<value name="Parameters" type="string">$BaseName</value>
+			<value name="Folder" type="string">$FileDir</value>
+			<value name="RE" type="string"/>
+		</1>
+		<2> 
+			<value name="Properties" type="blob">050000005880000044000000</value>
+			<value name="MenuText" type="string">Ejecutar subprograma Java</value>
+			<value name="Command" type="string">appletviewer.exe</value>
+			<value name="Parameters" type="string">$BaseName</value>
+			<value name="Folder" type="string">$FileDir</value>
+			<value name="RE" type="string"/>
+		</2>
+	</Tools>
+	<Recent-Strings> 
+		<value name="FindFlags" type="uint">2</value>
+		<value name="GrepSubdirs" type="uint">0</value>
+		<value name="WrapFind" type="uint">1</value>
+		<value name="Find" type="collection"> 
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+		</value>
+		<value name="Replace" type="collection"> 
+			<element></element>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+		</value>
+		<value name="GrepFilter" type="collection"> 
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+		</value>
+		<value name="GrepPath" type="collection"> 
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+			<element/>
+		</value>
+	</Recent-Strings>
+	<Recent-File-List> 
+		<value name="File1" type="string">C:\Users\I68\Documents\Documento1.4gl</value>
+		<value name="FileType1" type="uint">4e402</value>
+		<value name="File2" type="string">C:\Users\I68\AppData\Roaming\Helios\TextPad\8\ConfigState.xml</value>
+		<value name="FileType2" type="uint">fde902</value>
+		<value name="File3" type="string">C:\Users\I68\Documents\Documento2.4gl</value>
+		<value name="FileType3" type="uint">4e402</value>
+		<value name="File4" type="string">C:\Users\I68\Documents\Documento3.4gl</value>
+		<value name="FileType4" type="uint">4e402</value>
+	</Recent-File-List>
+</TextPad>
