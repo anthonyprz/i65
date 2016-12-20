@@ -193,4 +193,33 @@ begin catch
 end catch
 
 select * from editoriales
+select * from libros
+
+
+
+
+begin tran 
+	update libros
+	set titulo = 'Madre mia Willy'
+	where codigo = 2
+	rollback
+
+
+--INTERBLOQUEOS
+
+begin tran 
+update libros
+set titulo='proceso 1'
+where codigo = 2
+
+select @@TRANCOUNT
+
+use subconsultas
+begin tran 
+update editoriales
+set nombre='proceso 3'
+where codigo = 2
+
+
+rollback
 

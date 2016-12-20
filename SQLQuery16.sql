@@ -1,9 +1,3 @@
-select d.dept_no, d.dnombre, count(e.emp_no) from EMPLE e, DEPART d
-	 where	 e.dept_no = d.dept_no and
-			 d.dnombre = 'CONTABILIDAD' 
-	group by d.dept_no , d.dnombre
-
-
 begin try 
 	--bloque 1
 	raiserror('no existe el autor1',16,1)
@@ -79,13 +73,19 @@ create procedure numemp_deptbyNombre
 @NombreDepart varchar(30)
 as 
 begin
-	select d.dept_no, d.dnombre, count(e.emp_no) from EMPLE e, DEPART d
+	select d.dept_no, d.dnombre, count(e.emp_no) 'Numero de empleados' from EMPLE e, DEPART d
 	 where	 e.dept_no = d.dept_no and
 			 d.dnombre = @NombreDepart
 	group by d.dept_no , d.dnombre
+
+	select d.dept_no, d.dnombre, e.apellido, e.salario from EMPLE e, DEPART d
+	 where	 e.dept_no = d.dept_no and
+			 d.dnombre = @NombreDepart
+	
 end
 
 exec numemp_deptbyNombre 'CONTABILIDAD'
+exec numemp_deptbyNombre 'INVESTIGACIÖN'
 drop proc numemp_deptbyNombre
 
 
@@ -101,6 +101,9 @@ end
 exec salario_oficio 'SUAREZ'
 
 
+exec salario_oficio 'CEREZO'
+
+
 ------------------------------------------------------------------------------------------------------------6
 go
 create proc salario_oficio2
@@ -112,8 +115,11 @@ end
 
 exec salario_oficio 'SUAREZ'
 
+exec salario_oficio 'SUAREZ'
+
 
 ------------------------------------------------------------------------------------------------------------7
+
 go
 create proc salario_oficiolike
 @apellido varchar(30)
@@ -125,3 +131,7 @@ end
 
 drop proc salario_oficiolike
 exec salario_oficiolike 's'
+
+go
+use ejercicio1
+exec salario_oficiolike 'e'
