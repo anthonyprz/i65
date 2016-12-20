@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+neptuno
+</name>
+</assembly>
+<members>
+<member name="T:neptuno.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:neptuno.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:neptuno.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.CategoríasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Compañías_de_envíosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Detalles_de_pedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.EmpleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.PedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProveedoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.CategoríasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Compañías_de_envíosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Detalles_de_pedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.EmpleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.PedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProveedoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.CategoríasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Compañías_de_envíosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.Detalles_de_pedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.EmpleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.PedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSet.ProveedoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.CategoríasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.Compañías_de_envíosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.Detalles_de_pedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.EmpleadosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.PedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.ProductosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.ProveedoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(neptuno.Neptuno2002DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(neptuno.Neptuno2002DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(neptuno.Neptuno2002DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.UpdateAll(neptuno.Neptuno2002DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:neptuno.Neptuno2002DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

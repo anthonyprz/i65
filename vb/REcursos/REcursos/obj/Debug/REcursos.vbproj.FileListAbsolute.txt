@@ -1,0 +1,14 @@
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\bin\Debug\REcursos.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.EN.resources
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.ES.resources
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.EU.resources
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.xml
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\bin\Debug\REcursos.exe
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\bin\Debug\REcursos.pdb
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\bin\Debug\REcursos.xml
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.exe
+c:\users\i68\documents\visual studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.pdb
+C:\Users\I68\Documents\Visual Studio 2015\Projects\REcursos\REcursos\obj\Debug\REcursos.vbprojResolveAssemblyReference.cache

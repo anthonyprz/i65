@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\bin\Debug\ejemplo contenedores.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\bin\Debug\ejemplo contenedores.exe
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\bin\Debug\ejemplo contenedores.pdb
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\bin\Debug\ejemplo contenedores.xml
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo contenedores.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo_contenedores.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo_contenedores.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo contenedores.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo contenedores.exe
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo contenedores.xml
+c:\users\i68\documents\visual studio 2015\Projects\ejemplo contenedores\ejemplo contenedores\obj\Debug\ejemplo contenedores.pdb

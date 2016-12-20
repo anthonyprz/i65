@@ -1,0 +1,12 @@
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\bin\Debug\neptuno.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\bin\Debug\Neptuno2002.mdb
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\bin\Debug\neptuno.exe
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\bin\Debug\neptuno.pdb
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\bin\Debug\neptuno.xml
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.exe
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.xml
+c:\users\i68\documents\visual studio 2015\Projects\neptuno\neptuno\obj\Debug\neptuno.pdb

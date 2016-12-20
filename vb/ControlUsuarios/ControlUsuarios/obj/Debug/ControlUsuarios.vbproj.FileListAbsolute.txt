@@ -1,0 +1,12 @@
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\bin\Debug\ControlUsuarios.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\bin\Debug\ControlUsuarios.exe
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\bin\Debug\ControlUsuarios.pdb
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\bin\Debug\ControlUsuarios.xml
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.exe
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.xml
+c:\users\i68\documents\visual studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.pdb
+C:\Users\I68\Documents\Visual Studio 2015\Projects\ControlUsuarios\ControlUsuarios\obj\Debug\ControlUsuarios.Form2.resources

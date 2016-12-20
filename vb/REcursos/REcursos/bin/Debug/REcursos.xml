@@ -1,0 +1,149 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+REcursos
+</name>
+</assembly>
+<members>
+<member name="T:REcursos.My.Resources.EN">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.archivo">
+<summary>
+  Looks up a localized string similar to archive.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.consultar">
+<summary>
+  Looks up a localized string similar to Consult.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.eliminar">
+<summary>
+  Looks up a localized string similar to delete.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.modificar">
+<summary>
+  Looks up a localized string similar to modify.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.msgBienvenido">
+<summary>
+  Looks up a localized string similar to welcome!.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.nuevo">
+<summary>
+  Looks up a localized string similar to new.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EN.salir">
+<summary>
+  Looks up a localized string similar to close.
+</summary>
+</member>
+<member name="T:REcursos.My.Resources.ES">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.archivo">
+<summary>
+  Looks up a localized string similar to archivo.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.consultar">
+<summary>
+  Looks up a localized string similar to consultar.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.eliminar">
+<summary>
+  Looks up a localized string similar to eliminar.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.modificar">
+<summary>
+  Looks up a localized string similar to modificar.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.msgBienvenido">
+<summary>
+  Looks up a localized string similar to Bienvenido!.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.nuevo">
+<summary>
+  Looks up a localized string similar to nuevo.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.ES.salir">
+<summary>
+  Looks up a localized string similar to salir.
+</summary>
+</member>
+<member name="T:REcursos.My.Resources.EU">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EU.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EU.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.EU.msgBienvenido">
+<summary>
+  Looks up a localized string similar to Ongi Etorri!.
+</summary>
+</member>
+<member name="T:REcursos.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:REcursos.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\bin\Debug\Unidades.exe.config
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\bin\Debug\Unidades.exe
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\bin\Debug\Unidades.pdb
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\bin\Debug\Unidades.xml
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.vbprojResolveAssemblyReference.cache
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.Form1.resources
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.Resources.resources
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.vbproj.GenerateResource.Cache
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.exe
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.xml
+c:\users\i68\documents\visual studio 2015\Projects\Unidades\Unidades\obj\Debug\Unidades.pdb
