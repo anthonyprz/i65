@@ -250,3 +250,52 @@ as
 	exec ingresar_usuario '12','Nombre','Apellido','email@email',741852963,1
 
 --------------------------------------------------------------------funcion 1
+
+CREATE FUNCTION udf_ObtenerNumeroDeAnuncios
+(
+	@CodigoAnuncio int
+)
+RETURNS int
+AS
+BEGIN
+	
+	DECLARE @Result int =0
+
+	
+	SELECT @Result = (select COUNT(*) from anuncio a
+					 where a.codigoAnuncio = @CodigoAnuncio)
+
+	
+	RETURN @Result
+
+END
+GO
+select a.texto, a.precio, [dbo].[udf_ObtenerNumeroDeAnuncios](a.codigoAnuncio)
+from anuncio a
+
+--------------------------------------------------------------------funcion 2
+
+CREATE FUNCTION udf_AnunciosSegunFecha
+(
+@fecha1 date,
+@fecha2 date
+)
+returns
+@Table_Var table(
+CodigoAnuncio int,
+Texto varchar(90),
+fecha date,
+precio money
+)
+as 
+begin
+	insert into @Table_Var select a.codigoAnuncio,a.texto,a.fecha,a.precio
+							from anuncio a
+							where a.fecha between @fecha1 and @fecha2
+							RETURN 
+end
+
+select * from anuncio
+
+go
+select CodigoAnuncio,Texto,fecha ,precio from dbo.udf_AnunciosSegunFecha ('2016-01-10', '2016-02-10')
