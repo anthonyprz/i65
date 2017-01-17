@@ -1,7 +1,7 @@
 create database BDAnuncios
 go
 use BDAnuncios
-go
+go 
 
 -------------------------------------------------------------------------------categoria
 create table categoria(
@@ -105,7 +105,7 @@ insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,
  insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoSubCategoria,codigoUsuario,fotografia)
  values (11,'lamborghini gallardo 2016','10/01/2016',500.00,1,2,5,1,1)
   insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoSubCategoria,codigoUsuario,fotografia)
- values (12,'audi','10/01/2016',500.00,1,2,5,1,1)
+ values (13,'audi','10/01/2016',500.00,1,2,5,1,1)
 
 insert into fotografia values ('coche.jpg')
 insert into fotografia values ('moto.jpg')
@@ -202,9 +202,10 @@ codLocalidad int,
 codCategoria int,
 codigoSubCategoria int,
 codigoUsuario int,
-fotografia int
+fotografia int,
+--estado varchar(30) DEFAULT 'Anuncio Borrado'
 )
-
+drop table  historicoAnuncios
 go
 	create trigger tr_historico
 	on anuncio
@@ -213,7 +214,10 @@ go
 	begin
 	insert into historicoAnuncios  select * from deleted
 end
-	
+
+select * from anuncio
+	delete anuncio where codigoAnuncio = 11
+select * from historicoAnuncios
 --------------------------------------------------------procedimiento 1 
 --obtener el usuario que creo el anuncio
 go
