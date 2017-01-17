@@ -86,8 +86,8 @@ insert into subcategoria values (5,'coches',2)
 insert into subcategoria values (6,'motos',2)
 
 
-insert into anuncio values (1,'Venta de coches BMW','10/01/2017',80.000,1,2,5,1)
-insert into anuncio values (2,'Venta de motos yamaha','10/01/2017',50.000,2,2,6,2)
+--insert into anuncio values (1,'Venta de coches BMW','10/01/2017',80.000,1,2,5,1)
+--insert into anuncio values (2,'Venta de motos yamaha','10/01/2017',50.000,2,2,6,2)
 insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoUsuario)
 					values (3,'el servicio de limpieza','10/01/2017',1000,4,3,6)
 insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoUsuario)
@@ -96,15 +96,16 @@ insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,
 					values (5,'lenovo pc','10/01/2017',1500,4,5,3)
 insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoUsuario)
 					values (6,'microsoft surface','10/01/2017',3000,2,5,4)
-insert into anuncio values (7,'servicio domesticos de limpieza','10/01/2017',60,1,4,1,3)
-insert into anuncio values (8,'servicio de reparacion de moviles','10/01/2017',100,1,4,2,9)
-insert into anuncio values (9,'servicios de buses','10/01/2017',110,1,4,3,11)
+--insert into anuncio values (7,'servicio domesticos de limpieza','10/01/2017',60,1,4,1,3)
+--insert into anuncio values (8,'servicio de reparacion de moviles','10/01/2017',100,1,4,2,9)
+--insert into anuncio values (9,'servicios de buses','10/01/2017',110,1,4,3,11)
 
 insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoSubCategoria,codigoUsuario,fotografia)
  values (10,'lamborghini','10/01/2017',500.00,1,2,5,1,1)
  insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoSubCategoria,codigoUsuario,fotografia)
  values (11,'lamborghini gallardo 2016','10/01/2016',500.00,1,2,5,1,1)
-
+  insert into anuncio (codigoAnuncio,texto,fecha,precio,codLocalidad,codCategoria,codigoSubCategoria,codigoUsuario,fotografia)
+ values (12,'audi','10/01/2016',500.00,1,2,5,1,1)
 
 insert into fotografia values ('coche.jpg')
 insert into fotografia values ('moto.jpg')
@@ -169,3 +170,83 @@ from anuncio a,localidad l
 where a.precio = (select MAX(precio) from anuncio)
 	  and a.codLocalidad = l.codigo
 	  and l.provincia='Guipuzcoa'
+
+
+---------------------------------------------------------------------------triggers 1
+
+use BDAnuncios
+go
+create trigger tr_operaciones
+on anuncio
+for insert, delete,update
+as 
+	begin
+		if exists(select * from inserted) and 
+		   exists(select * from deleted)
+		   print 'se ha realizado una actualizacion'
+		else
+			if exists (select * from inserted)
+			print 'se ha realizado una insercion'
+		else 
+			print 'se ha realizado una borrado'
+	end
+
+---------------------------------------------------------------------------triggers 2
+
+create table historicoAnuncios (
+codigoAnuncio int,
+texto varchar(90),
+fecha date,
+precio money,
+codLocalidad int,
+codCategoria int,
+codigoSubCategoria int,
+codigoUsuario int,
+fotografia int
+)
+
+go
+	create trigger tr_historico
+	on anuncio
+	for delete
+	as 
+	begin
+	insert into historicoAnuncios  select * from deleted
+end
+	
+--------------------------------------------------------procedimiento 1 
+--obtener el usuario que creo el anuncio
+go
+use BDAnuncios;
+go
+create procedure obetener_usuario
+@codigoAnuncio int
+as
+begin 
+ select u.nombre , u.apellido, u.telefono from anuncio a, usuario u
+ where a.codigoUsuario = u.codigoUsuario  and a.codigoAnuncio = @codigoAnuncio
+end
+
+--ejecutar 
+exec obetener_usuario 2;
+
+	
+--------------------------------------------------------procedimiento 2
+go
+create proc ingresar_usuario
+@codigoUsuario int,
+@Nombre varchar(30),
+@Apellido varchar(30),
+@email varchar(30),
+@telefono varchar(10),
+@estado char(1)
+as 
+	begin
+	 set nocount on 
+	 insert into usuario 
+		values (@codigoUsuario, @Nombre, @Apellido, @email, @telefono,@estado)
+	end
+	
+	exec ingresar_usuario '12','Nombre','Apellido','email@email',741852963,1
+
+--------------------------------------------------------------------funcion 1
