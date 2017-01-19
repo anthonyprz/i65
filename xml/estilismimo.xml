@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="estilisimo.css" ?>
+<articulos>
+	<articulo>
+	<nombre>sofá</nombre>
+	<precio>642</precio>
+</articulo>
+<articulo>
+	<nombre>mesa</nombre>
+	<precio>305</precio>
+</articulo>
+<articulo>
+	<nombre>lámpara</nombre>
+	<precio>89</precio>
+</articulo>
+</articulos>

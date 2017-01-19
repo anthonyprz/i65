@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<endidades>
+	<menor_que>&lt;</menor_que>
+	<maroy_que>&gt;</maroy_que>
+	<comilla>&quot;</comilla>
+	<comilla_simple>&apos;</comilla_simple>
+	<ampersand>&amp;</ampersand>
+</endidades>
