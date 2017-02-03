@@ -1,0 +1,88 @@
+<anuncio codigoAnuncio="10" texto="lamborghini" fecha="2017-01-10" precio="475.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="12" texto="audi" fecha="2016-01-10" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="13" texto="audi" fecha="2016-01-10" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="15" texto="check date" fecha="2016-01-20" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="16" texto="check date" fecha="2016-01-20" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="17" texto="check date" fecha="2017-01-09" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="18" texto="check date" fecha="2017-01-09" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
+<anuncio codigoAnuncio="19" texto="check date" fecha="2017-01-19" precio="500.0000" codLocalidad="1" codCategoria="2" codigoSubCategoria="5" codigoUsuario="1" fotografia="1">
+  <categoria codigoCategoria="2" categoria="Vehiculos">
+    <subcategoria codigoSubCategoria="5" subcategoria="coches" categoria="2">
+      <localidad codigo="1" nombre="azpeitia" provincia="Guipuzcoa">
+        <fotografia codigo="1" nombreArchivo="coche.jpg">
+          <usuario codigoUsuario="1" nombre="Anthony" apellido="perez" email="email@email.com" telefono="987654321" estado="1" />
+        </fotografia>
+      </localidad>
+    </subcategoria>
+  </categoria>
+</anuncio>
