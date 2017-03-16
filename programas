@@ -14,3 +14,8 @@ componente de centros integrales
 
 administrar-utilidades-centros integrales-configurador de components
  primero se crean los componentes y las relaciones entre ellos luego ir a mantenimiento de centros integrales
+
+
+
+Componente principal =  Lista de trabajadores (codigo,nombre,dni) vista vpertid
+componente secundario = nominas que se le han pagado (año, tipo de nomina descripcion) descendente tabla fperhtd
